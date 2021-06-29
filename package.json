@@ -17,5 +17,13 @@
     "gulp-sass": "^5.0.0",
     "node-sass": "^6.0.1",
     "sass": "^1.35.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziz99g/pre-diplom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aziz99g/pre-diplom/issues"
+  },
+  "homepage": "https://github.com/aziz99g/pre-diplom#readme"
 }
